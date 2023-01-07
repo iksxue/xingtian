@@ -1,6 +1,6 @@
 # 仓库导航
 > 越靠前越新哦，**备用地址：需科学上网**
-1. [超低价机场推荐](https://github.com/hjyvip/xingtian/blob/main/README.md#超低价机场推荐)
+1. [超低价机场推荐](https://github.com/hjyvip/xingtian#%E8%B6%85%E4%BD%8E%E4%BB%B7%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90)
 1. [NordVPN共享账号3329个](https://github.com/hjyvip/xingtian/blob/main/NordVPN%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B73329%E4%B8%AA)
 1. 置顶中：[各种超低价会员，售后稳如狗](https://feizhu.huiyuan2.xyz/)
 1. [二刺螈导航 - 冻鳗导航_动漫导航_ACG导航_二次元导航](https://archive-center.github.io/anran1/二刺螈导航%20-%20冻鳗导航_动漫导航_ACG导航_二次元导航.html)-----[备用地址](https://archive.ph/pDqOl)
